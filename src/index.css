@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    box-sizing: border-box;
+
+}
+@font-face {
+    font-family: Founder-Xc;
+    src: url(./assets/Founders_Grotesk/FoundersGrotesk-Semibold.ttf);
+
+}
+@font-face {
+    font-family: About;
+    src: url(./assets/Founders_Grotesk/NeueMontreal-Regular.ttf);
+}
+@font-face {
+    font-family: Founder-Reg;
+    src: url(./assets/Founders_Grotesk/FoundersGrotesk-Regular.otf);
+}
